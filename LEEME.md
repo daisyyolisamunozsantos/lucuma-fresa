@@ -5,7 +5,7 @@ este es un proyecto para divertirme.
 Author:
 ------
 
-    * Daisy Yolisa
+
    Notas de la version:
    -------------------
    *Cambio k no son seguros
@@ -19,3 +19,9 @@ Author:
     
     </body>
     </html>
+
+    * Daisy Yolisa
+Creditos:
+--------
+	*Harit Miuler Camargo
+	*Barata 
